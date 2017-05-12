@@ -1,13 +1,14 @@
 
 // Before you commit and push write your student ID and finish time here.
-// Finish time:
-// Student ID:
+// Finish time: 20:28	
+// Student ID: IT15-2015
 
 public class PlanetExplorer {
 	
-
+	
 	public int x;
 	public int y;
+	public String obstacles;
 	
 	public PlanetExplorer(int x, int y, String obstacles){
 	/*	x and y represent the size of the grid.
