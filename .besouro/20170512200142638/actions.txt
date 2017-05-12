@@ -60,3 +60,6 @@ RefactoringAction 1494614020345 PlanetExplorer.java ADD int getY() METHOD
 RefactoringAction 1494614020347 PlanetExplorer.java ADD void setY(int) METHOD
 RefactoringAction 1494614025871 PlanetExplorer.java REMOVE coordinates FIELD
 EditAction 1494614147830 PlanetExplorer.java 1472 6 7 0
+RefactoringAction 1494614371667 PlanetExplorer.java ADD String o FIELD
+RefactoringAction 1494614374203 PlanetExplorer.java RENAME o=>String obsta FIELD
+RefactoringAction 1494614376242 PlanetExplorer.java RENAME obsta=>String obstacles FIELD
